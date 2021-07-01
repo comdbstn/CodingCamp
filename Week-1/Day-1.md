@@ -4,20 +4,19 @@ Week-1, Day-1
    
 We start coding camp with California State University Student   
 I felt nervous because it was our first time meeting   
-Questioning in English will be very good for improving my English and coding skills
+Questioning in English will be very good for improving my English and coding skills   
 However, I are finding equilibrium because it can interfere with the progress of the class and others   
    
-* * *
-Welcome to the course!
-- Welcome from the President of University
-- Intros From Instructors
-Installs and Setup
-(Task) Install VS Code and Node.js
-        (Lecture)What is VS Code, and how do we use it?
-        (Task) Install Node.js
-        (Lecture)What is Node.js and how do we use it?
-   
-* * *
+```
+Welcome to the course!   
+- Welcome from the President of University   
+- Intros From Instructors   
+Installs and Setup   
+(Task) Install VS Code and Node.js   
+        (Lecture)What is VS Code, and how do we use it?   
+        (Task) Install Node.js   
+        (Lecture)What is Node.js and how do we use it?   
+ ```
    
 
 INTRODUCE!
