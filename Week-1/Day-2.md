@@ -52,5 +52,89 @@ Break (10:35 AM - 10:50 AM)
  * * *    
 Git and Github Setup and Basics (10:50 AM - 12:30 AM)
 ---
-     
 
+* What is the Git and how to use them?   
+  Git and Github is Coffie and Coffie Shop   
+  Git is watching your code every time and record it   
+  Include What code is changed, who changed, Why changed (Commit)   
+  
+* Git Command   
+Configure your username and email   
+(you only need to do this once PER COMPUTER EVER EVER EVER not once per project, since you are configuring this globally on your computer)
+Set your global username/email configuration:   
+(I recommend using the username and email of your github.com)   
+Open the command line.   
+Set your username:
+```
+git config --global user.name "Username"
+Set your email address:
+git config --global user.email "MY_NAME@example.com"
+```
+
+Initialize git in your project directory with the command   
+```
+git init 
+```
+Add all of the relevant files to be staged for a commit with the command:   
+```
+git add
+```
+Commit all of your staged files with the command below 
+```
+git commit -m “your commit message”
+```
+
+Follow the instructions listed to push an existing repository to your online repository
+(Last command links your upstream repo online to your local repo)
+(This makes your life easy)   
+```
+git branch -M master
+
+git remote add origin https://github.com/githubusername/repository-name.git
+
+git push -u origin master
+```
+
+For Updating your files after the initial setup:   
+After making changes to your project, if you want to update your github.com repository you need to make a new commit, and then push the changes online.   
+(you can check the status of your repository with git status)   
+```
+Step 1: type  git add .
+Step 2: Type  git commit -m “commit message”
+Step 3: Type  git push
+```
+
+If you were working together with other students on a project,   
+You would need to do git pull before adding committing and pushing.   
+```
+Step 1: git pull
+Step 2: type  git add .
+Step 3: Type  git commit -m “commit message”
+Step 4: Type  git push
+```
+ 
+
+ * * *    
+Assignment: Create some simple web pages for practice
+---
+Make a page talking about a favorite book, manga, movie, or TV show   
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello World This is NOT my first H1 Element</h1>
+    <p>Test 123</p>
+    <p>Make her dance BOOM</p>
+    <p>Oh my fucking god</p>
+    <button>Defalt button</button>
+    <button>make button</button>
+</body>
+</html>
+```
