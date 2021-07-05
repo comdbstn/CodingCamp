@@ -120,20 +120,25 @@ Make a page talking about a favorite book, manga, movie, or TV show
 
 ```
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+	<meta charset="utf-8">
+	<title>Favorite Manga</title>
 </head>
 <body>
-    <h1>Hello World This is NOT my first H1 Element</h1>
-    <p>Test 123</p>
-    <p>Make her dance BOOM</p>
-    <p>Oh my fucking god</p>
-    <button>Defalt button</button>
-    <button>make button</button>
+    <h1>進撃の巨人</h1>
+
+    <h2>進撃の巨人</h2>
+    <p>This mangga is started when I was studied in elementary school</p>
+    <p>And this ended this year</p>
+    <p>My half of life is with this mangga </p>
+
+    <h2>What is fun point?</h2>
+    <p>Action of this manga is really cool</p>
+    <p>We can saw the scene that killing huge peoples</p>
+    <p>and process of that is really dinamic</p>
+
+    <img src="https://images-na.ssl-images-amazon.com/images/I/71GNi4Qnf1S.jpg" alt="image">
 </body>
 </html>
 ```
