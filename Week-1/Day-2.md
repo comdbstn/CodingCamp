@@ -39,8 +39,7 @@ Course Overview & Web Development Overview (10:00 AM - 10:30 AM)
 *	For the US students a chance to practice communicating with International Speakers of English
 *	Practicing the process of using documentation effectively while building projects
      
-
-duduueue     
+     
   * * *
    
    
