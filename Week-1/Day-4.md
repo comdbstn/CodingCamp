@@ -6,18 +6,23 @@ This link helped me a lot
 https://flexboxfroggy.com/#ko   
    
 
-Use LiveShare
----
-   
-We use the liveshare program on vs code today   
-   
-   
 * * *
    
    
    
-HTML
+FlexBox
 ---
+Flexbox is a system within CSS used for positioning elements on the page   
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox   
+Flexbox is a MODULE which is a part of CSS 3   
+You activate it with the {display: flex} css property   
+Cheat Sheet   
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/   
+Key point!  CHILD Elements INHERIT the flexbox settings from the PARENT CONTAINER on which display: flex; is applied.    
+Flexbox is a great way to make websites According to the “Responsive Design” Principle   
+“Responsive” just means, the web- page changes size based on the size of the screen   
+Using flexbox is an easy and fast way to make your webpage look amazing on BOTH Large and Small Screen Sizes   
+Look in your dev tools for different screen display resolutions   
 
 
 
@@ -28,21 +33,78 @@ HTML
    
 CSS
 ---
+* Bolder
+You can make a lot of kind of bolder on these code   
+https://developer.mozilla.org/en-US/docs/Web/CSS/border    
+```
+border: solid;
+// make normal border with color
 
+border: dashed red;
+// Make dashed border
 
+border: 1rem solid;
+// Bold border
 
+border: thick double #32a1ce;
+// Make dubble bolder
 
+border: 4mm ridge rgba(170, 50, 220, .6);
+// Make rigid border
+```
 
-  
+   
+* Display property   
+Tags that can set line of words
+```
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {color: red;}
+
+p.ex1 {display: none;}
+p.ex2 {display: inline;}
+p.ex3 {display: block;}
+p.ex4 {display: inline-block;}
+</style>
+</head>
+<body>
+<h1>The display Property</h1>
+
+<h2>display: none:</h2>
+<div>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. <p class="ex1">HELLO WORLD!</p> Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut.
+</div>
+
+<h2>display: inline:</h2>
+<div>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. <p class="ex2">HELLO WORLD!</p> Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut.
+</div>
+
+<h2>display: block:</h2>
+<div>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. <p class="ex3">HELLO WORLD!</p> Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut.
+</div>
+
+<h2>display: inline-block:</h2>
+<div>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. <p class="ex4">HELLO WORLD!</p> Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut.
+</div>
+
+</body>
+</html>
+```
+   
+![image](https://user-images.githubusercontent.com/57173871/125065147-6e28bf80-e0ec-11eb-964d-26f4fee3ffcc.png)
+
 
  
 
  * * *    
 Team Assignment: Design your webpage of past week with CSS learned today 
 ---
-Make a page talking about a favorite book, manga, movie, or TV show  
-
-![image](https://user-images.githubusercontent.com/57173871/124698815-949bfe80-df24-11eb-9ad8-b9e272b5c0a0.png)
+We add some CSS code like flexbox   
 
 
 Belew code is HTML code
