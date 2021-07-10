@@ -1,7 +1,7 @@
 Week-1, Day-5
 ===
    
-Today, we studied about Flexbox project, Bootstrap Library   
+Today, we studied about Bootstrap Library and Flexbox project   
    
 
    
