@@ -7,37 +7,6 @@ Today, we did team project using bootstrap
 * * *
    
 
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@comdbstn 
-comdbstn
-/
-Assignment
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Assignment/Business.html
-@comdbstn
-comdbstn first commit
-Latest commit 1679a18 37 seconds ago
- History
- 1 contributor
-63 lines (56 sloc)  2.49 KB
- 
 ```
 <!DOCTYPE html>
 <html lang="en">
