@@ -2,9 +2,10 @@ Week-1, Day-6
 ===
    
    
-Today, we did team project using bootstrap   
+Today, we did team project that Business communication Platform using bootstrap   
 https://getbootstrap.com/docs/5.0/getting-started/introduction/   
 
+![image](https://user-images.githubusercontent.com/57173871/125279633-2190ee80-e34f-11eb-93f0-4fb23ce17215.png)
 * * *
    
 
