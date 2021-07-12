@@ -1,12 +1,11 @@
 Week-1, Day-4
 ===
    
-Today, we studied about CSS flexbox   
-This link helped me a lot   
-https://flexboxfroggy.com/#ko   
+Today, we did team project using bootstrap   
    
 
 * * *
+   
    
    
    
