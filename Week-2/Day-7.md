@@ -116,7 +116,7 @@ https://getbootstrap.com/docs/5.0/components/card/
                   </div>
                   <div class="col-md-8">
                     <div class="card-body">
-                      <h5 class="card-title">Melanie</h5>
+                      <h5 class="card-title"></h5>
                       <p class="card-text">for that i believe it is we have to use the display flex</p>
                       <p class="card-text"><small class="text-muted">Last updated 2 mins ago</small></p>
                     </div>
@@ -133,7 +133,7 @@ https://getbootstrap.com/docs/5.0/components/card/
                   </div>
                   <div class="col-md-8">
                     <div class="card-body">
-                      <h5 class="card-title">Lyn</h5>
+                      <h5 class="card-title"></h5>
                       <p class="card-text">I can solve that problem</p>
                       <p class="card-text"><small class="text-muted">Last updated 1 mins ago</small></p>
                     </div>
@@ -150,7 +150,7 @@ https://getbootstrap.com/docs/5.0/components/card/
                   </div>
                   <div class="col-md-8">
                     <div class="card-body">
-                      <h5 class="card-title">Gayeon</h5>
+                      <h5 class="card-title"></h5>
                       <p class="card-text">Good!</p>
                       <p class="card-text"><small class="text-muted">Last updated 36 sec ago</small></p>
                     </div>
