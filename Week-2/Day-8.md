@@ -1,4 +1,4 @@
-Week-1, Day-8
+Week-2, Day-8
 ===
    
 Today, we studied javascript.   
