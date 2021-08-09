@@ -20,4 +20,3 @@ Those are tech for Frontend.
 And we study also backend but It will be less than frontend one.   
 We will also study Algular.   
 and fianlly, We will make program   
-* Select one thing on this   
